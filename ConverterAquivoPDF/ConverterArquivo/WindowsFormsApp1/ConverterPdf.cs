@@ -10,7 +10,7 @@ namespace ConverterArquivo
 {
     public class ConverterPdf
     {
-        public void Converter(string LocalArquivo, string LocalSalvar)
+        public void Converter(string LocalArquivo, string LocalSalvar, string NomeArquivo)
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             var Dados = File.ReadAllText(LocalArquivo);
@@ -24,7 +24,7 @@ namespace ConverterArquivo
                     XBrushes.Black,
                     new XRect(0, 0, page.Width, page.Height));
 
-                doc.Save("arquivo.pdf");
+                doc.Save(LocalSalvar+ "\\" + NomeArquivo + ".pdf");
 
             }
 
