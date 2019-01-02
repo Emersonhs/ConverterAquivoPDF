@@ -1,0 +1,11 @@
+D:\EHSSitemas\Niveus\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.deps.json
+D:\EHSSitemas\Niveus\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.runtimeconfig.json
+D:\EHSSitemas\Niveus\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.runtimeconfig.dev.json
+D:\EHSSitemas\Niveus\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.dll
+D:\EHSSitemas\Niveus\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.pdb
+D:\EHSSitemas\Niveus\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.csproj.CoreCompileInputs.cache
+D:\EHSSitemas\Niveus\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.AssemblyInfoInputs.cache
+D:\EHSSitemas\Niveus\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.AssemblyInfo.cs
+D:\EHSSitemas\Niveus\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.dll
+D:\EHSSitemas\Niveus\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.pdb
+D:\EHSSitemas\Niveus\Teste\Teste\bin\Debug\netcoreapp2.1\JANEIRO2018.ofc
