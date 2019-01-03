@@ -12,7 +12,10 @@ namespace Teste
         public void Converter()
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-            var xmlInputData = File.ReadAllText(@"D:\EHSSitemas\Niveus\ConverterAquivoPDF\JANEIRO2018.ofc",Encoding.UTF8);
+            //var xmlInputData = File.ReadAllText(@"D:\EHSSitemas\Niveus\ConverterAquivoPDF\JANEIRO2018.ofc",Encoding.UTF8);
+            var xmlInputData = File.ReadAllText("JANEIRO2018.ofc");
+            StreamReader streamReader = new StreamReader(@"D:\EHSSitemas\Niveus\ConverterAquivoPDF\JANEIRO2018.ofc");
+            var aqruivo = streamReader.ReadToEnd();
             // C#
             using (var doc = new PdfSharp.Pdf.PdfDocument())
             {

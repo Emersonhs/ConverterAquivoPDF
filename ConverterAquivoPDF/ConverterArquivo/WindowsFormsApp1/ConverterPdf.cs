@@ -20,15 +20,13 @@ namespace ConverterArquivo
                 var page = doc.AddPage();
                 var graphics = XGraphics.FromPdfPage(page);
                 var textFormatter = new PdfSharp.Drawing.Layout.XTextFormatter(graphics);
-                textFormatter.DrawString(Dados, new XFont("Arial", 10),
+                textFormatter.DrawString(Dados, new XFont("Arial", 9),
                     XBrushes.Black,
                     new XRect(0, 0, page.Width, page.Height));
 
                 doc.Save(LocalSalvar+ "\\" + NomeArquivo + ".pdf");
 
             }
-
         }
-
     }
 }

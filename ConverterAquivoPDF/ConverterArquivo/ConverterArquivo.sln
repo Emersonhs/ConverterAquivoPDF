@@ -5,16 +5,30 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterArquivo", "WindowsFormsApp1\ConverterArquivo.csproj", "{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorConverterArquivo", "InstaladorConverterArquivo\InstaladorConverterArquivo.vdproj", "{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Debug|x86.ActiveCfg = Debug|x86
+		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Debug|x86.Build.0 = Debug|x86
 		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Release|x86.ActiveCfg = Release|x86
+		{9B1BA48C-BDA7-4BAD-A51C-2D220D25DC2B}.Release|x86.Build.0 = Release|x86
+		{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}.Debug|Any CPU.ActiveCfg = Debug
+		{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}.Debug|x86.ActiveCfg = Debug
+		{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}.Debug|x86.Build.0 = Debug
+		{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}.Release|Any CPU.ActiveCfg = Release
+		{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}.Release|x86.ActiveCfg = Release
+		{AB7C3892-E52C-4C82-8C3F-B8355C71ED76}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
