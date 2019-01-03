@@ -234,3 +234,6 @@ D:\EHSSitemas\Niveus\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\obj\De
 D:\EHSSitemas\Niveus\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\obj\Debug\ConverterArquivo.csproj.CopyComplete
 D:\EHSSitemas\Niveus\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\EHSSitemas\Niveus\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Bsi91030\Desktop\Emerson\Niveus\ConverterAquivoPDF\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Bsi91030\Desktop\Emerson\Niveus\ConverterAquivoPDF\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Bsi91030\Desktop\Emerson\Niveus\ConverterAquivoPDF\ConverterAquivoPDF\ConverterArquivo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
